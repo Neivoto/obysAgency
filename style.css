@@ -934,8 +934,6 @@ body {
   .line{
     height: 10vw;
   }
-  
-  
 
   #page1 {
     width: 100%;
@@ -1012,7 +1010,7 @@ body {
     position: relative;
   }
   .hero {
-    width: 70%;
+    width: 80%;
     margin-left: 5%;
     height: -webkit-fit-content;
     height: -moz-fit-content;
