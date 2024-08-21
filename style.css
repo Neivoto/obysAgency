@@ -937,7 +937,7 @@ body {
 
   #page1 {
     width: 100%;
-    height: 50vh;
+    height: 60vh;
     background-color: #151515;
     margin-bottom: 0;
     padding-top: 1px;
@@ -1090,6 +1090,7 @@ body {
 
   /* Page 3 */
   #page3 {
+    margin-top: 9vw;
     min-height: 100vh;
     width: 100%;
     background-color: #151515;
@@ -1108,7 +1109,7 @@ body {
     font-size: 5vw;
     font-weight: 500;
     font-family: "silk serif";
-    top: -2%;
+    top: -0.8%;
     left:5.6%;
   }
   #page3 .underline {
@@ -1139,7 +1140,7 @@ body {
     font-weight: 100;
     text-transform: uppercase;
     margin-left: 0.8vw;
-    height: 3vh;
+    height: 3.5vh;
     overflow: hidden;
     width: -webkit-fit-content;
     width: -moz-fit-content;
@@ -1209,6 +1210,17 @@ body {
     position: relative;
     left: 28%;
     margin-top: 15vw;
+  }
+  .image-footer{
+    display: flex;
+    font-size: 2vw;
+    font-weight: 300;
+    justify-content: space-between;
+    margin: 6vw 0;
+  }
+  .image-footer h2{
+    width: 60%;
+
   }
 
   /* Page 4 */
