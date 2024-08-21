@@ -32,6 +32,8 @@ html {
 }
 body {
   cursor: none;
+  overflow-x: hidden;
+  background-color: #030303;
 }
 
 .silkFont span{
